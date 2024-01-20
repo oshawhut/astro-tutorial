@@ -1,11 +1,12 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: "My Second Blog Post"
+pubDate: 2024-01-19
 author: "oshawhut"
 description: "After learning some Astro, I couldn't stop!"
 image:
   url: "https://docs.astro.build/assets/arc.webp"
   alt: "Thumbnail of Astro arcs."
-pubDate: 2024-01-19
 tags: ["astro", "blogging", "learning in public", "successes"]
 ---
 
