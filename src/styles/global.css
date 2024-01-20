@@ -19,6 +19,11 @@ img {
 	box-sizing: border-box;
 }
 
+.description {
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bold;
+}
+
 h1 {
 	margin: 1rem 0;
 	font-size: 2.5rem;
