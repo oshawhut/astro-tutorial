@@ -11,6 +11,15 @@ body {
 	line-height: 1.5;
 }
 
+html.dark {
+	background-color: #23222f;
+	color: #fff;
+}
+
+.dark .nav-links a {
+	color: #fff;
+}
+
 img {
 	filter: drop-shadow(0 0 0.9rem black);
 }
